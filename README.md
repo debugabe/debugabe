@@ -10,8 +10,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e um entusiasta
 
 - **📚:** Estudante de análise e desenvolvimento de sistemas.
 - **🖥️:** C#, ASP.NET Core.
-- **🎶:** Meu código é movido a Metal e umas músicas diferentes aí.
-- **🐈‍⬛:** Meu gato se chama Vlad.
 
 ---
 
